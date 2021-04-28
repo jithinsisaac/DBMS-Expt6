@@ -8,6 +8,9 @@ Course Coordinator: Mr. Jithin Isaac
 ### Objective  
 To create a HTML Web form frontend using Bootstrap, link it to the MariaDB database using PHP server side backend scripting language & performing CRUD applications on the form. To create a virtual instance on AWS EC2, install LAMP stack and to host the site & database on it.
 
+### Demo
+https://dblabs.in/projects/fullstack/11-html-form/php/index.html
+
 ### Tools used  
 - Software: 
   - MariaDB
