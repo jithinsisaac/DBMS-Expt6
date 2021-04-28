@@ -6,7 +6,7 @@ Course Coordinator: Mr. Jithin Isaac
 ### Laboratory Experiment No. 6
  
 ### Objective  
-To create an HTML Web form using Bootstrap, link it to the MariaDB database using PHP server side scripting language & performing CRUD applications on the form. To create a virtual instance on AWS EC2, install LAMP stack and to host the site & database on it.
+To create a HTML Web form frontend using Bootstrap, link it to the MariaDB database using PHP server side backend scripting language & performing CRUD applications on the form. To create a virtual instance on AWS EC2, install LAMP stack and to host the site & database on it.
 
 ### Tools used  
 - Software: 
